@@ -1,2 +1,6 @@
-# esp8266-webserver
-A local web server created by ESP8266 using the Arduino IDE
+# ESP8266 - WEB SERVER usando IP Fixo
+Criação de um servidor web local usando a ESP8266 na IDE do Arduino
+
+Visualize os códigos nos arquivos:
+webserver.ino
+webserver_fixo.ino
